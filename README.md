@@ -1,2 +1,1 @@
-# rmario2012 - SupeNux
-This is the official website for SupeNux, a OS 
+This is the official website for SuperNux, a OS made using Linux technology.

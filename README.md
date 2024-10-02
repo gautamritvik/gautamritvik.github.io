@@ -1,2 +1,2 @@
-# SupeNux
-This is the official website for SuperNux, a OS made using Linux technology.
+# Welcome!
+Hey there! Welcome to my website!
